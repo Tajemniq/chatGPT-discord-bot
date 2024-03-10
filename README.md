@@ -153,3 +153,4 @@
    > **Warning**
    > The bot will easily be triggered in `replyall` mode, which could cause program failures
  ---
+"# chatGPT-discord-bot" 
